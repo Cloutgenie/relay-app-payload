@@ -1,2 +1,3 @@
 # relay-app-payload
-Build payload for the Relay Sprinklr console
+
+Split source archive used by the Relay Vercel build. Not an application repository.
